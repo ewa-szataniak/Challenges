@@ -5,7 +5,7 @@ class Property():
         self.expenses = 0
         self.cash_flow = 0 
         self.pet_fee = 25
-        self.tennant_pet_fee = None 
+        self.tenant_pet_fee = None 
         self.laundry = 0 
         self.storage = 0 
         self.rent = None
